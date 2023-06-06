@@ -1,0 +1,23 @@
+{
+  "name": "diceapp-npmcours",
+  "version": "1.0.0",
+  "description": "This app uses two npm package that i have made.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hagwall86/diceapp-npmcours.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hagwall86/diceapp-npmcours/issues"
+  },
+  "homepage": "https://github.com/Hagwall86/diceapp-npmcours#readme",
+  "dependencies": {
+    "dice-rool": "^1.0.0"
+  }
+}
